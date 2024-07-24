@@ -327,7 +327,7 @@ const Service: NextPage = () => {
                             Effects of Haptic Feedback in Virtual Reality.{" "}
                             <a
                               className="fa fa-link"
-                              href="hhttps://link.springer.com/content/pdf/10.1007/978-3-319-40244-4_22.pdf"
+                              href="https://link.springer.com/content/pdf/10.1007/978-3-319-40244-4_22.pdf"
                               target="_blank"
                             ></a>
                           </p>
