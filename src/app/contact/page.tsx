@@ -11,36 +11,67 @@ const Contact: NextPage = () => {
             </div>
           </div>
           <div className="row">
+            <div className="contact-text">
+              <p>
+                I'm always open to accept new opportunities, challenges, and new
+                connections. Feel free to reach out if you think my skillset is
+                a good match. <br />
+                I'm also open to have coffee (I love coffee), chat, or talk
+                about new ideas. Hope to connect with you soon!
+              </p>
+            </div>
+          </div>
+          <div className="row">
             {/* contact-info-item */}
             <div className="contact-info-item padd-15">
               <div className="icon">
                 <i className="fa fa-map-marker" />
               </div>
-              <h4>Address</h4>
-              <p>Your Address, City</p>
+              <h4>95014</h4>
+              <p>Cupertino, CA</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
             <div className="contact-info-item padd-15">
               <div className="icon">
-                <i className="fa fa-phone" />
+                <a
+                  href="https://www.linkedin.com/in/liu6/"
+                  target="_blank"
+                  className="fa fa-linkedin"
+                />
               </div>
-              <h4>Call Us On</h4>
-              <p>+99 **********</p>
+              <h4>
+                <a href="https://www.linkedin.com/in/liu6/" target="_blank">
+                  LinkedIn
+                </a>
+              </h4>
+              <a href="https://www.linkedin.com/in/liu6/" target="_blank">
+                <p>linkedin.com/in/liu6</p>
+              </a>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
             <div className="contact-info-item padd-15">
               <div className="icon">
-                <i className="fa fa-envelope" />
+                <a
+                  href="mailto:liusy1588@gmail.com"
+                  target="_blank"
+                  className="fa fa-envelope"
+                />
               </div>
-              <h4>Email</h4>
-              <p>your@email.com</p>
+              <h4>
+                <a href="mailto:liusy1588@gmail.com" target="_blank">
+                  Email
+                </a>
+              </h4>
+              <a href="mailto:liusy1588@gmail.com" target="_blank">
+                <p>eric23liu@gmail.com</p>
+              </a>
             </div>
             {/* contact-info-item Ended */}
           </div>
           {/* Contact Form */}
-          <div className="row">
+          {/* <div className="row">
             <form className="contact-form padd-15">
               <div className="row">
                 <div className="form-item col-6 padd-15">
@@ -92,7 +123,7 @@ const Contact: NextPage = () => {
                 </div>
               </div>
             </form>
-          </div>
+          </div> */}
           {/* Contact Form Ended */}
         </div>
       </section>

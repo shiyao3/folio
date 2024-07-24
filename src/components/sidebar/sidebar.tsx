@@ -24,7 +24,7 @@ const Sidebar = () => {
       <div className="aside-inner">
         <div className="logo">
           <Link href="/" onClick={handleClose}>
-            Logo
+            Eric Liu
           </Link>
         </div>
         <ul className="nav">
@@ -43,23 +43,18 @@ const Sidebar = () => {
           </li>
           <li onClick={handleClose}>
             <Link
-              href="/services"
-              className={`${pathUrl == "/services" && "active"}`}
+              href="/experience"
+              className={`${pathUrl == "/experience" && "active"}`}
             >
-              <i className="fa fa-list" /> Services
+              <i className="fa fa-list" /> Experience
             </Link>
           </li>
           <li onClick={handleClose}>
             <Link
-              href="/portfolio"
-              className={`${pathUrl == "/portfolio" && "active"}`}
+              href="/projects"
+              className={`${pathUrl == "/projects" && "active"}`}
             >
-              <i className="fa fa-briefcase" /> Portfolio
-            </Link>
-          </li>
-          <li onClick={handleClose}>
-            <Link href="/blog" className={`${pathUrl == "/blog" && "active"}`}>
-              <i className="fa fa-envelope" /> Blog
+              <i className="fa fa-briefcase" /> Projects
             </Link>
           </li>
           <li onClick={handleClose}>
@@ -71,12 +66,7 @@ const Sidebar = () => {
             </Link>
           </li>
         </ul>
-        <div className="copyright">
-          Created with ❤️ By{" "}
-          <a href="http://alsiam.com" target="_blank" rel="noopener noreferrer">
-            Al Siam
-          </a>
-        </div>
+        <div className="copyright"></div>
       </div>
     </aside>
   );
