@@ -23,7 +23,7 @@ const About: NextPage = () => {
                     heavily involved in research, projects, engineering teams,
                     and co-op/internships. During my first job, I acquired my
                     degree in computer science and data science from the
-                    University of Illinois Urbana-Champaign. I've worked with
+                    University of Illinois Urbana-Champaign. I have worked with
                     many people from many backgrounds, and always looking for
                     new opportunities!
                   </p>

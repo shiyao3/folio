@@ -13,11 +13,11 @@ const Contact: NextPage = () => {
           <div className="row">
             <div className="contact-text">
               <p>
-                I'm always open to accept new opportunities, challenges, and new
-                connections. Feel free to reach out if you think my skillset is
-                a good match. <br />
-                I'm also open to have coffee (I love coffee), chat, or talk
-                about new ideas. Hope to connect with you soon!
+                I am always open to accept new opportunities, challenges, and
+                new connections. Feel free to reach out if you think my skillset
+                is a good match. <br />I am also open to have coffee (I love
+                coffee), chat, or talk about new ideas. Hope to connect with you
+                soon!
               </p>
             </div>
           </div>

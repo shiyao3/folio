@@ -105,7 +105,7 @@ const Portfolio: NextPage = () => {
                 <div className="portfolio-info">
                   <h4>Asteroid Composition Through Reflectance (ACTR)</h4>
                   <h5>
-                    Determine an asteroid's metal composition for asteroid
+                    Determine the metal composition of asteroids for space
                     mining by analyzing the spectrum of reflected light as it
                     passes by a star.
                   </h5>
