@@ -54,18 +54,18 @@ const Contact: NextPage = () => {
             <div className="contact-info-item padd-15">
               <div className="icon">
                 <a
-                  href="mailto:liusy1588@gmail.com"
+                  href="mailto:shiyao3@illinois.edu"
                   target="_blank"
                   className="fa fa-envelope"
                 />
               </div>
               <h4>
-                <a href="mailto:liusy1588@gmail.com" target="_blank">
+                <a href="mailto:shiyao3@illinois.edu" target="_blank">
                   Email
                 </a>
               </h4>
-              <a href="mailto:liusy1588@gmail.com" target="_blank">
-                <p>eric23liu@gmail.com</p>
+              <a href="mailto:shiyao3@illinois.edu" target="_blank">
+                <p>shiyao3@illinois.edu</p>
               </a>
             </div>
             {/* contact-info-item Ended */}
