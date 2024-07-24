@@ -281,7 +281,7 @@ const Service: NextPage = () => {
                           <h4 className="timeline-title">
                             University of Waterloo
                           </h4>
-                          <h5>
+                          <h5 className="timeline-text">
                             <i className="fa fa-graduation-cap" /> Electrical
                             and Computer Engineering (Bachelor&quot;s Degree)
                           </h5>
