@@ -263,7 +263,7 @@ const Service: NextPage = () => {
                           </h4>
                           <h5 className="timeline-text">
                             <i className="fa fa-graduation-cap" /> Computer
-                            Science and Data Science (Master&quot;s Degree)
+                            Science and Data Science (Master&apos;s Degree)
                           </h5>
                           <ul className="timeline-text">
                             <li>Deep learning</li>
@@ -283,7 +283,7 @@ const Service: NextPage = () => {
                           </h4>
                           <h5 className="timeline-text">
                             <i className="fa fa-graduation-cap" /> Electrical
-                            and Computer Engineering (Bachelor&quot;s Degree)
+                            and Computer Engineering (Bachelor&apos;s Degree)
                           </h5>
                           <ul className="timeline-text">
                             <li>RF and wireless systems</li>
