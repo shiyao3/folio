@@ -156,9 +156,9 @@ const Portfolio: NextPage = () => {
                 <div className="portfolio-info">
                   <h4>Waterloo Aerial Robotics Group (WARG)</h4>
                   <h5>
-                    Long-range for simulated fire detection, search-and-rescue
-                    missions. Electrical and software systems control and
-                    navigation.
+                    Long-range drone for forest fire detection and
+                    search-and-rescue missions. Designed and developed
+                    electrical and software systems for control and navigation.
                   </h5>
                   <div className="icon">
                     <a
