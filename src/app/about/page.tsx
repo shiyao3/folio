@@ -138,13 +138,13 @@ const About: NextPage = () => {
                 <div className="personal-info padd-15">
                   <div className="row">
                     <div className="buttons padd-15">
-                      <a
+                      {/* <a
                         href="/assets/docs/resume.pdf"
                         target="_target"
                         className="btn"
-                      >
+                      > */}
                         Download My Resume
-                      </a>
+                      {/* </a> */}
                     </div>
                   </div>
                 </div>

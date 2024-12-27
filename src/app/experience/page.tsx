@@ -12,13 +12,13 @@ const Service: NextPage = () => {
           </div>
           <div className="row">
             <div className="buttons padd-15">
-              <a
+              {/* <a
                 href="/assets/docs/resume.pdf"
                 target="_target"
                 className="btn"
-              >
+              > */}
                 Download My Resume
-              </a>
+              {/* </a> */}
             </div>
           </div>
           <div className="row">
