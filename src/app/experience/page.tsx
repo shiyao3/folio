@@ -33,29 +33,17 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> June 2017 - Present
+                            <i className="fa fa-calendar" /> November 2024 - Present
                           </h6>
                           <h4 className="timeline-title">Apple</h4>
-                          <h5 className="timeline-text">RF System Engineer</h5>
+                          <h5 className="timeline-text">AI/ML for RF Engineering</h5>
                           <ul className="timeline-text">
                             <li>
-                              AI/ML for instrumentation, radiation pattern
-                              prediction, antenna performance prediction.
-                            </li>
-                            <li>
-                              Design and develop software for test, calibration,
-                              instrumentation, automation for wireless systems:
-                              GSM/LTE/5G/Experimental
-                            </li>
-                            <li>
-                              Oversee software projects from design to
-                              deployment, provide guidance and oversight for
-                              engineering initiatives.
-                            </li>
-                            <li>
-                              Develop/manage cloud infrastructure to support
-                              engineers and factories. Manage factory
-                              operations, engineers, contractors.
+                              Deep learning models for hardware design, performance optimizations, instrumentation accuracy, and manufacturing.
+                            </li><li>  
+                              Develop and deploy models for manufacturing to predict hardware performance, increase efficiency and measurement accuracy.
+                            </li><li>
+                              Lead data infrastructure engineers, architect data pipeline solutions for automated telemetry, model generation, evaluation.
                             </li>
                           </ul>
                         </div>
@@ -64,28 +52,59 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> August 2016 -
-                            December 2016
+                            <i className="fa fa-calendar" /> March 2022 - November 2024
+                          </h6>
+                          <h4 className="timeline-title">Apple</h4>
+                          <h5 className="timeline-text">AI/ML/SW Engineer</h5>
+                          <ul className="timeline-text">
+                            <li>
+                              Established the foundations of AI/ML for RF engineering, developed and deployed the first model for RF hardware engineering.
+                            </li><li>  
+                              Architect cloud infrastructure solutions, lead and manage cloud infrastructure engineering team, manage outage response.
+                            </li><li>
+                              Oversee software projects from design to deployment, provide guidance and oversight for engineering initiatives.
+                            </li>
+                          </ul>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> June 2017 - March 2022
+                          </h6>
+                          <h4 className="timeline-title">Apple</h4>
+                          <h5 className="timeline-text">RF System and Software Engineer</h5>
+                          <ul className="timeline-text">
+                            <li>
+                              Develop automated testing and calibration algorithms for RF systems. Debug baseband, antenna, RF and EE hardware issues.
+                            </li><li>
+                              Provide system-level expertise for design and product development, instrumentation, testing, and calibration solutions.
+                            </li><li>
+                              Develop and manage cloud infrastructure critical to product development, engineering, manufacturing.
+                            </li><li>
+                              Deployment and debug in manufacturing/factory environments, managing cross-functional, manufacturing/factory operations.
+                            </li>
+                          </ul>
+                        </div>
+                        {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> August 2016 - December 2016
                           </h6>
                           <h4 className="timeline-title">Apple</h4>
                           <h5 className="timeline-text">
-                            RF Cellular Test & Automation Engineering
-                            (Co-op/Intern)
+                            RF Cellular Test & Automation Engineering (Co-op/Intern)
                           </h5>
                           <ul className="timeline-text">
                             <li>
-                              Developed test application to automate CMW500 for
-                              testing cellular technologies (LTE, GSM, UMTS).
-                            </li>
-                            <li>
-                              Work with RF engineers to develop cellular tests
-                              from 3GPP and system requirements, correlation
-                              study between solutions.
-                            </li>
-                            <li>
-                              Work with contract manufacturers to validate and
-                              deploy RF test solution in a production
-                              environment.
+                              Develop test application to automate CMW500 for testing cellular technologies (LTE, GSM, UMTS).
+                            </li><li>
+                              Work with RF engineers to develop cellular tests from 3GPP and system requirements, correlation studies between solutions.
+                            </li><li>
+                              Work with contract manufacturers to validate and deploy RF test solution in production environments.
                             </li>
                           </ul>
                         </div>
@@ -94,29 +113,19 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> August 2015 -
-                            December 2015
+                            <i className="fa fa-calendar" /> August 2015 - December 2015
                           </h6>
                           <h4 className="timeline-title">ON Semiconductor</h4>
                           <h5 className="timeline-text">
-                            DSP Firmware and Algorithm Development
-                            (Co-op/Intern)
+                            DSP Firmware and Algorithm Development (Co-op/Intern)
                           </h5>
                           <ul className="timeline-text">
                             <li>
-                              Develop milti-core DSP audio encoding/compression
-                              (G.722, CVSD), custom codec to increase
-                              compression, retaining quality.
-                            </li>
-                            <li>
-                              Evaluate codec performance, develop firmware
-                              tests, fixes for reliability and security.
-                              Optimize assembly and C code.
-                            </li>
-                            <li>
-                              Develop algorithms for memory management to
-                              optimize usage and read/write, data transfer
-                              speed.
+                              Develop milti-core DSP audio encoding/compression (G.722, CVSD), custom codecs to increase compression, retaining quality.
+                            </li><li>
+                              Evaluate codec performance, develop firmware tests, fixes for reliability and security. Optimize assembly and C code.
+                            </li><li>
+                              Develop algorithms for memory management to optimize usage and read/write, data transfer speed.
                             </li>
                           </ul>
                         </div>
@@ -125,8 +134,7 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> January 2015 - May
-                            2015
+                            <i className="fa fa-calendar" /> January 2015 - May 2015
                           </h6>
                           <h4 className="timeline-title">
                             Department of National Defence
@@ -135,21 +143,13 @@ const Service: NextPage = () => {
                             Defence Research & Technical Lead (Co-op/Intern)
                           </h5>
                           <ul className="timeline-text">
-                            <li>
-                              Design and develop high performance and
-                              versatility simulator for sensor data fusion
-                              research in intelligence aircraft (ISR).
-                            </li>
-                            <li>
-                              Developed algorithms to track targets,
-                              identify/assess threats, predict trajectory,
-                              conforming to NATO military standards.
-                            </li>
-                            <li>
-                              Collaborate with defence companies, foreign
-                              engineers, scientists, air force pilots for
-                              development of future research projects.
-                            </li>
+                          <li>
+                            Design and develop high performance and versatility simulator for sensor data fusion research in intelligence aircraft (ISR).
+                          </li><li>
+                            Develop algorithms to track targets, identify/assess threats, predict trajectory, conforming to NATO military standards.
+                          </li><li>
+                            Engage with defence companies, foreign engineers/scientists, military to cultivate future research opportunities.
+                          </li>
                           </ul>
                         </div>
                         {/* Timeline Item end */}
@@ -157,8 +157,7 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> May 2014 - August
-                            2014
+                            <i className="fa fa-calendar" /> May 2014 - August 2014
                           </h6>
                           <h4 className="timeline-title">Symantec</h4>
                           <h5 className="timeline-text">
@@ -166,13 +165,9 @@ const Service: NextPage = () => {
                           </h5>
                           <ul className="timeline-text">
                             <li>
-                              Developed tests, fix bugs for access and content
-                              control, encryption, security vulnerabilities and
-                              exploits, system crashes.
-                            </li>
-                            <li>
-                              Created comprehensive automated and manual tests
-                              based on future project road map.
+                              Developed tests, fix bugs for access and content control, encryption, security vulnerabilities and exploits, system crashes.
+                            </li><li>
+                              Created comprehensive automated and manual tests and plans based on future project road map.
                             </li>
                           </ul>
                         </div>
@@ -181,8 +176,7 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> August 2013 -
-                            December 2013
+                            <i className="fa fa-calendar" /> August 2013 - December 2013
                           </h6>
                           <h4 className="timeline-title">Siemens</h4>
                           <h5 className="timeline-text">
@@ -190,14 +184,9 @@ const Service: NextPage = () => {
                           </h5>
                           <ul className="timeline-text">
                             <li>
-                              Generate, analyze packets to debug complex
-                              computer networks. Develop and test recovery
-                              systems and solutions (PRP, HSR).
-                            </li>
-                            <li>
-                              Implemented and tested high precision clock
-                              synchronization, contributing to IEEE 1588
-                              Precision Time Protocol (PTP).
+                              Generate, analyze packets to debug complex computer networks. Develop and test recovery systems and solutions (PRP, HSR).
+                            </li><li>
+                              Implemented and tested high precision clock synchronization, contributing to IEEE 1588 Precision Time Protocol (PTP).
                             </li>
                           </ul>
                         </div>
@@ -206,8 +195,7 @@ const Service: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> January 2013 -
-                            April 2013
+                            <i className="fa fa-calendar" /> January 2013 - April 2013
                           </h6>
                           <h4 className="timeline-title">Siemens</h4>
                           <h5 className="timeline-text">
@@ -215,13 +203,9 @@ const Service: NextPage = () => {
                           </h5>
                           <ul className="timeline-text">
                             <li>
-                              Develop automated tests, fix network security and
-                              reliability bugs, develop libraries for IETF
-                              protocols.
-                            </li>
-                            <li>
-                              Back-end server and in-house tools development for
-                              automating calculations and documentation.
+                              Develop automated tests, fix network security and reliability bugs, develop libraries for IETF protocols.
+                            </li><li>
+                              Back-end server and in-house tools development for automating calculations and documentation.
                             </li>
                           </ul>
                         </div>
