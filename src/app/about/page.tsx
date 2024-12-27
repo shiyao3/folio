@@ -46,6 +46,9 @@ const About: NextPage = () => {
                       <p>Distributed Training</p>
                     </div>
                     <div className="info-item padd-15">
+                      <p>Feature and Data Engineering</p>
+                    </div>
+                    <div className="info-item padd-15">
                       <p>PyTorch</p>
                     </div>
                     <div className="info-item padd-15">
