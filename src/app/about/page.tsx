@@ -31,6 +31,34 @@ const About: NextPage = () => {
               </div>
               <div className="row">
                 <div className="personal-info padd-15">
+                  <h3>AI/ML Expertise</h3>
+                  <div className="row">
+                    <div className="info-item padd-15">
+                      <p>Deep Learning Models</p>
+                    </div>
+                    <div className="info-item padd-15">
+                      <p>Transformers</p>
+                    </div>
+                    <div className="info-item padd-15">
+                      <p>Hyperparameter Search</p>
+                    </div>
+                    <div className="info-item padd-15">
+                      <p>Distributed Training</p>
+                    </div>
+                    <div className="info-item padd-15">
+                      <p>PyTorch</p>
+                    </div>
+                    <div className="info-item padd-15">
+                      <p>SciKit-Learn</p>
+                    </div>
+                    <div className="info-item padd-15">
+                      <p>AutoGluon</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="row">
+                <div className="personal-info padd-15">
                   <h3>Languages and Tools</h3>
                   <div className="row">
                     <div className="info-item padd-15">
@@ -40,7 +68,7 @@ const About: NextPage = () => {
                       <p>C/C++</p>
                     </div>
                     <div className="info-item padd-15">
-                      <p>Swift/CoreML</p>
+                      <p>Swift</p>
                     </div>
                     <div className="info-item padd-15">
                       <p>Java</p>
@@ -49,25 +77,13 @@ const About: NextPage = () => {
                       <p>R / Matlab</p>
                     </div>
                     <div className="info-item padd-15">
+                      <p>Kubernetes</p>
+                    </div>
+                    <div className="info-item padd-15">
                       <p>Postgres / SQL</p>
                     </div>
                     <div className="info-item padd-15">
                       <p>Redis</p>
-                    </div>
-                    <div className="info-item padd-15">
-                      <p>SciKit-Learn</p>
-                    </div>
-                    <div className="info-item padd-15">
-                      <p>AutoGluon</p>
-                    </div>
-                    <div className="info-item padd-15">
-                      <p>XGBoost</p>
-                    </div>
-                    <div className="info-item padd-15">
-                      <p>PyTorch</p>
-                    </div>
-                    <div className="info-item padd-15">
-                      <p>Keras</p>
                     </div>
                   </div>
                 </div>
@@ -137,15 +153,15 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="personal-info padd-15">
                   <div className="row">
-                    <div className="buttons padd-15">
-                      {/* <a
+                    {/* <div className="buttons padd-15">
+                      <a
                         href="/assets/docs/resume.pdf"
                         target="_target"
                         className="btn"
-                      > */}
+                      >
                         Download My Resume
-                      {/* </a> */}
-                    </div>
+                      </a>
+                    </div> */}
                   </div>
                 </div>
               </div>

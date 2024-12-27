@@ -11,15 +11,15 @@ const Service: NextPage = () => {
             </div>
           </div>
           <div className="row">
-            <div className="buttons padd-15">
-              {/* <a
+            {/* <div className="buttons padd-15">
+              <a
                 href="/assets/docs/resume.pdf"
                 target="_target"
                 className="btn"
-              > */}
+              >
                 Download My Resume
-              {/* </a> */}
-            </div>
+              </a>
+            </div> */}
           </div>
           <div className="row">
             <div className="about-content padd-15">
